@@ -40,6 +40,7 @@ It also features visualizations for:
 * **Sales Trends:** A line chart showing the sum and average of weekly sales over the years.
 * **Sales by Holiday:** A pie chart illustrating the distribution of sales during holiday and non-holiday weeks.
 * **Correlation Plots:** Scatter plots showing the relationship between sales and various economic factors (Unemployment, Fuel Price, CPI).
+* **Slicers:** Month wise and holiday flag slicers were made to filter the data for various months or to see distribution for holidays and non holidays.
 <img width="764" height="450" alt="image" src="https://github.com/user-attachments/assets/bb1ddcc3-cf9d-4cf9-8191-a1b0aaec5138" />
 
 
